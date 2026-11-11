@@ -6,10 +6,10 @@ Construo software de ponta a ponta, do banco de dados ao deploy, **trabalhando c
 
 ## 🛠️ Tecnologias
 
-**Back-end:** Java 21 · Spring Boot 3 · Spring Security · JWT · JPA/Hibernate · Flyway · REST · Swagger/OpenAPI
-**Front-end e mobile:** TypeScript · Next.js · React · Tailwind CSS · React Native/Expo
-**Dados e infra:** MySQL · PostgreSQL · Prisma · Docker · Railway · Git/GitHub
-**Qualidade:** testes automatizados (JUnit, Vitest) · TDD · LGPD e controle de acesso por perfil
+- **Back-end:** Java 21 · Spring Boot 3 · Spring Security · JWT · JPA/Hibernate · Flyway · REST · Swagger/OpenAPI
+- **Front-end e mobile:** TypeScript · Next.js · React · Tailwind CSS · React Native/Expo
+- **Dados e infra:** MySQL · PostgreSQL · Prisma · Docker · Railway · Git/GitHub
+- **Qualidade:** testes automatizados (JUnit, Vitest) · TDD · LGPD e controle de acesso por perfil
 
 ## 📌 Projeto em destaque
 
