@@ -1,103 +1,35 @@
-# Olá, eu sou Junior Rodrigues 👋
+# Olá, eu sou o Junior Rodrigues 👋
 
-## Sobre mim
+Desenvolvedor **Java e Full-Stack** em formação (Análise e Desenvolvimento de Sistemas, Uninter), de Licínio de Almeida - BA.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em Desenvolvimento Backend utilizando Java e Spring Boot.
+Construo software de ponta a ponta, do banco de dados ao deploy, **trabalhando com agentes de IA** (Claude Code e OpenCode, no VS Code): eu defino a arquitetura, escrevo especificações e planos, oriento os agentes, reviso o que eles produzem e só aprovo com testes passando.
 
-Tenho dedicado meus estudos à construção de APIs REST, modelagem de banco de dados, autenticação com JWT, segurança de aplicações com Spring Security e boas práticas de desenvolvimento.
+## 🛠️ Tecnologias
 
-Acredito no aprendizado através da prática, por isso estou constantemente desenvolvendo projetos para consolidar conhecimentos e evoluir como Desenvolvedor Java Backend.
----
+**Back-end:** Java 21 · Spring Boot 3 · Spring Security · JWT · JPA/Hibernate · Flyway · REST · Swagger/OpenAPI
+**Front-end e mobile:** TypeScript · Next.js · React · Tailwind CSS · React Native/Expo
+**Dados e infra:** MySQL · PostgreSQL · Prisma · Docker · Railway · Git/GitHub
+**Qualidade:** testes automatizados (JUnit, Vitest) · TDD · LGPD e controle de acesso por perfil
 
-## 🚀 Tecnologias e Competências
+## 📌 Projeto em destaque
 
-### Backend & Segurança
+### [Sistema de Controle Financeiro](https://github.com/juniorcarlito20/SistemaDeControleFinanceiro)
+API REST em Java 21 e Spring Boot com usuários, contas, categorias e transações, autenticação JWT, senhas com BCrypt, Swagger e Docker Compose.
 
-* Java
-* Spring Boot
-* Spring Security
-* JWT Authentication
-* REST APIs
-* Validação de Dados
-* Tratamento Global de Exceções
+## 🔒 Outros projetos (repositórios privados)
 
-### Banco de Dados
+- **Sistema de gestão para centro de atendimento educacional** — em produção com usuários reais: Next.js, TypeScript, PostgreSQL, Prisma, backups automáticos e cuidados com LGPD.
+- **Bot de trading de criptomoedas (modo simulado)** — Java 21, Spring Boot, Flyway, MySQL, JWT, Docker, com mais de 140 classes de teste, e app mobile em React Native.
+- **Futsal Legends** — jogo 3D de futsal para celular, em Godot 4.
 
-* MySQL
-* JPA / Hibernate
+Esses projetos ficam privados por envolverem dados de usuários reais. Posso apresentá-los em entrevista.
 
-### Ferramentas & DevOps
+## 🤖 Como trabalho com IA
 
-* Git
-* GitHub
-* Docker
-* Swagger / OpenAPI
-* IntelliJ IDEA
-* MySQL Workbench
-
----
-
-## 📌 Projeto Principal
-
-### Sistema de Controle Financeiro
-
-Meu principal projeto é uma API REST para gerenciamento financeiro desenvolvida com Java e Spring Boot, aplicando conceitos utilizados em aplicações reais de mercado.
-
-### Principais funcionalidades
-
-✅ Cadastro e gerenciamento de usuários
-
-✅ Gerenciamento de contas financeiras
-
-✅ Categorias para organização das transações
-
-✅ Controle de receitas e despesas
-
-✅ Autenticação e autorização com JWT
-
-✅ Proteção de endpoints com Spring Security
-
-✅ Documentação interativa com Swagger
-
-✅ Tratamento global de exceções
-
-✅ Arquitetura baseada em DTOs
-
-
-
-### Tecnologias utilizadas
-
-* Java
-* Spring Boot
-* Spring Security
-* JWT
-* MySQL
-* JPA / Hibernate
-* Docker
-* Swagger
-
-🔗 Repositório do projeto:
-[https://github.com/juniorcarlito20/SistemaDeControleFinanceiro]
-
----
-
-## 📚 Atualmente estudando
-
-* Docker
-* Deploy de aplicações
-* Arquitetura de APIs REST
-* Boas práticas de desenvolvimento Backend
-
----
-
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade como Desenvolvedor Java Backend ou Estagiário para aplicar conhecimentos adquiridos em projetos práticos, contribuir com equipes de desenvolvimento e continuar evoluindo profissionalmente.
-
----
+1. **Planejo antes de programar:** especificação, tarefas pequenas e critérios de aceitação verificáveis.
+2. **Divido papéis:** eu decido arquitetura e prioridades; o agente executa uma tarefa por vez; eu reviso e rodo os testes antes de aprovar.
+3. **Escrevo regras permanentes** para os agentes (`AGENTS.md`/`CLAUDE.md`) e mantenho um registro de decisões.
 
 ## 📫 Contato
 
-* GitHub: https://github.com/juniorcarlito20
-* LinkedIn: [https://www.linkedin.com/in/junior-rodrigues-b63b4640b/]
-* E-mail: juniorcarlito20@hotmail.com
+[LinkedIn](https://linkedin.com/in/junior-rodrigues-b63b4640b) · juniorcarlito20@hotmail.com
